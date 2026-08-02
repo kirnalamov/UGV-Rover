@@ -1,0 +1,3 @@
+[submodule "ugv_ws"]
+	path = ugv_ws
+	url = git@github.com:kirnalamov/ugv_ws_rn_fork.git
