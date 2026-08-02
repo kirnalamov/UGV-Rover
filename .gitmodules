@@ -1,3 +1,6 @@
 [submodule "ugv_ws"]
 	path = ugv_ws
 	url = git@github.com:kirnalamov/ugv_ws_rn_fork.git
+[submodule "roarm_ws"]
+	path = roarm_ws
+	url = git@github.com:kirnalamov/roarm_ws_rn_fork.git
