@@ -1,6 +1,8 @@
 [submodule "ugv_ws"]
 	path = ugv_ws
 	url = git@github.com:kirnalamov/ugv_ws_rn_fork.git
+	branch = ros2-humble-develop-251125
 [submodule "roarm_ws"]
 	path = roarm_ws
 	url = git@github.com:kirnalamov/roarm_ws_rn_fork.git
+	branch = ros2-humble-develop-251125
